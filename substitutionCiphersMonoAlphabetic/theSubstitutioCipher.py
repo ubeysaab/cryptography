@@ -6,9 +6,16 @@ permu ==> k define
  where pi^-1 is the  inverse permutation to pi
  26!
 
+There are two common techniques used to construct ciphers: substitution and 
+permutation.
+ Substitution replaces plaintext letters or strings of letters by letters or 
+numbers or symbols.
+ Permutation uses the plaintext message letters but rearranges 
+their order. 
+
 '''
 #!the number of possible permutations is 26! 
-##TODO: put this encrypt and decrypt in fun and write some comment 
+##TODO: put this encrypt and decrypt in function and write some comments for github
 from re import L
 
 

@@ -1,4 +1,5 @@
 '''
+
 a cryptosystem is a five-tupe (p,c,k,e,d),where  the following conditions are satisfied:
  1. p is a finite set of possible plainText
  2. c is a finite set of possible cipherTexts
